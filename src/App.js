@@ -5,33 +5,7 @@ import Notes from './components/Notes';
 import { useState } from 'react';
 function App() {
     const [notes,setNotes] = useState([
-        {
-            time:"time1",
-            title:"gas",
-            desc:"description1",
-            key:"1",
-            duedate:"duetime1",
-            tag:"tag1",
-            status:"Done"
-        },
-        {
-            time:"time2",
-            title:"water",
-            desc:"description2",
-            key:"2",
-            duedate:"duetime2",
-            tag:"tag2",
-            status:"Done"
-        },
-        {
-            time:"time3",
-            title:"study",
-            desc:"description3",
-            key:"3",
-            duedate:"duetime3",
-            tag:"tag3",
-            status:"Working"
-        }
+        
     ]);
 
     const addTodos = (e) => {
