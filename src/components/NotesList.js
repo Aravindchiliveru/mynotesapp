@@ -181,7 +181,7 @@ function NotesList({notes, delAddNote, editNote}) {
                 }
             ]
         }}></Table>
-        <Modal title="Edit Student" visible={isEditing} onCancel={() => {resetEditing()}} 
+        <Modal title="Edit Entry" visible={isEditing} onCancel={() => {resetEditing()}} 
         onOk={()=>{
             editNote(editingTodo)
             resetEditing()}} okText='Save'>

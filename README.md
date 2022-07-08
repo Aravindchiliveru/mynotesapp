@@ -6,9 +6,11 @@ This project was created using [Create React App](https://github.com/facebook/cr
 
 In this app User can be able to Update his Daily To-Dos including its deadline.
 
-![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/src/images/sc1.png?raw=true)
+![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/main/src/images/sc1.png?raw=true)
 
 User can mark his daily works in the app by enrolling his `Work-Title`, `Work Description`, `Due Date`and its `Status`.
+
+![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/main/src/images/sc2.png?raw=true)
 
 `Status` is provided for all the works using the status tags below :
 
@@ -17,9 +19,15 @@ User can mark his daily works in the app by enrolling his `Work-Title`, `Work De
 ### DONE - COMPLETED
 ### OVERDUE - TIME ELAPSED
 
+![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/main/src/images/sc3.png?raw=true)
+
 User can sort his works according to the `date of record`, `Due date`, `title` and `description` and can also filter the daily works accordingly using the `custom search` option.
 
+![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/main/src/images/sc4.png?raw=true)
+
 User can Update, Delete, Sort and Filter the table.
+
+![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/main/src/images/sc5.png?raw=true)
 
 Pagenation and validation checks are enabled which helps the app to be more realistic.
 
