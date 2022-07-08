@@ -6,6 +6,8 @@ This project was created using [Create React App](https://github.com/facebook/cr
 
 In this app User can be able to Update his Daily To-Dos including its deadline.
 
+![alt text](https://github.com/Aravindchiliveru/mynotesapp/blob/src/images/sc1.png?raw=true)
+
 User can mark his daily works in the app by enrolling his `Work-Title`, `Work Description`, `Due Date`and its `Status`.
 
 `Status` is provided for all the works using the status tags below :
