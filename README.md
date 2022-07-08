@@ -31,6 +31,8 @@ User can Update, Delete, Sort and Filter the table.
 
 Pagenation and validation checks are enabled which helps the app to be more realistic.
 
+[Open Live App](https://mynotesapp.vercel.app/)
+
 ## © CHILIVERU ARAVIND
 
 ## Available Scripts
