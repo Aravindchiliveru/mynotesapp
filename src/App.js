@@ -69,6 +69,8 @@ function App() {
         <h1>TODO LIST APP</h1>
         <Notes handleAddNote={addTodos} />
         <NotesList notes={notes} delAddNote={delTodos} editNote={editTodos}/>
+        <br /><br />
+      <a href='https://aravind-portfolio.vercel.app/' target='__blank'><h3>By Chiliveru Aravind</h3></a>
       </header>
     </div>
   );

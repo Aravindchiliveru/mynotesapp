@@ -1,17 +1,29 @@
 
 .App {
   text-align: center;
+  background: #5157a1;
+  background-image: url(./images/bg-texture.png);
 }
+h3{
 
+    padding: 0.5rem;
+    background-color: #1890ff;
+    border: 1px solid rgb(97, 93, 93);
+    border-radius: 5px;
+}
+h3:hover{
+    background-color: #5bb0fe;
+}
 .App-header {
-  background-color: #b5bfd4;
+ 
   height: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  
+
 }
 
 @media screen and (max-width:600px ){

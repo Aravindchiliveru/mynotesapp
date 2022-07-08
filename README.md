@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# MY NOTES APP USING REACT AND ANT DESIGN
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using [Create React App](https://github.com/facebook/create-react-app). and [Ant Design Pro](https://ant.design/)
+
+## Getting Started With MyNotesApp
+
+In this app User can be able to Update his Daily To-Dos including its deadline.
+
+User can mark his daily works in the app by enrolling his `Work-Title`, `Work Description`, `Due Date`and its `Status`.
+
+`Status` is provided for all the works using the status tags below :
+
+### OPEN (Default) - IN AMBER
+### WORKING - IN PROGRESS
+### DONE - COMPLETED
+### OVERDUE - TIME ELAPSED
+
+User can sort his works according to the `date of record`, `Due date`, `title` and `description` and can also filter the daily works accordingly using the `custom search` option.
+
+User can Update, Delete, Sort and Filter the table.
+
+Pagenation and validation checks are enabled which helps the app to be more realistic.
+
+## © CHILIVERU ARAVIND
 
 ## Available Scripts
 
